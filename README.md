@@ -9,6 +9,9 @@ https://github.com/knife911/5x7-pixel-chinese-font
 - k6x8
 https://littlelimit.net/k6x8.htm
 
+- Tiny5
+https://github.com/Gissio/font_tiny5
+
 ## 8×8
 
 - 美咲フォント
